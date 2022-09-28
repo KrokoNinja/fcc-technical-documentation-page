@@ -42,13 +42,14 @@ main header {
 
 @media (max-width: 700px) {
 	main {
-		width: 80%;
+		width: 90%;
         margin-left: 0;
 	}
 	#navbar {
 		position: relative;
-        width: 100%;
+        width: 104%;
         border-right: none;
+		margin-left: -4%;
 	}
 
     .nav-links {
